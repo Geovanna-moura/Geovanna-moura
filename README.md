@@ -14,6 +14,7 @@ Meu nome é Geovanna Moura
 
 @mouraa.geo
 
-![](https://tenor.com/beeqJ.gif)
+https://media1.tenor.com/m/GSpDR5XnCvgAAAAC/cute.gif
+
 
 
