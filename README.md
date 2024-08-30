@@ -2,7 +2,7 @@
 
 Meu nome é Geovanna Moura
 
--Estou estudando da aulura
+-Estou estudando da [Aulura](https://www.aluno.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -13,11 +13,3 @@ Meu nome é Geovanna Moura
 00001113930573sp@al.educacao.sp.gov.br
 
 @mouraa.geo
-
-
-
-
-https://media1.tenor.com/m/K0QNIySkzdEAAAAd/dog-smile-eeyeyy1.gif
-
-
-
